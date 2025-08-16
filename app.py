@@ -8,7 +8,7 @@ app = Flask(__name__)
 PORTFOLIO_DATA = {
     "personal_info": {
         "name": "Stavya Joshi",
-        "title": "Banana Leclerc",
+        "title": "Computer Science Engineering Student",
         "email": "joshistavya@gmail.com",
         "phone": "+91 9968 23315",
         "location": "Mumbai, India",
